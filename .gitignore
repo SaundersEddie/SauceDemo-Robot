@@ -1,6 +1,7 @@
 # Robot Framework specific
 *.html
 *.xml
+*.iml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
