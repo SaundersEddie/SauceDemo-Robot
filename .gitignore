@@ -1,6 +1,6 @@
 # Robot Framework specific
-.html
-.xml
+*.html
+*.xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
